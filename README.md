@@ -2,7 +2,7 @@
 ---
 https://github.com/zalando/tailor
 
-```
+```sh
 yarn add node-tailor
 
 git clone https://github.com/zalando/tailor.git
@@ -28,7 +28,7 @@ http
   });
 ```
 
-```
+```html
 <html>
 <head>
   <script type="fragment" src="http://assets.domain.com"></script>
